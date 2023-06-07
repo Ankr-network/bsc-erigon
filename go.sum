@@ -463,6 +463,8 @@ github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE
 github.com/gin-contrib/sse v0.1.0/go.mod h1:RHrZQHXnP2xjPF+u1gW/2HnVO7nvIa9PG3Gm+fLHvGI=
 github.com/gin-gonic/gin v1.6.3 h1:ahKqKTFpO5KTPHxWZjEdPScmYaGtLo8Y4DMHoEsnp14=
 github.com/gin-gonic/gin v1.6.3/go.mod h1:75u5sXoLsGZoRN5Sgbi1eraJ4GU3++wFwWzhwvtwp4M=
+github.com/gladcow/bsc-erigon-lib v0.0.1-ankr h1:bOdIuI+AuG57xDRkkBLRiiSQwSyGW8HeDetveafqW6c=
+github.com/gladcow/bsc-erigon-lib v0.0.1-ankr/go.mod h1:fis+CS9DEtVJ6YV/P+CC7Dx27XtiaTf8tsEDy89wcZU=
 github.com/gliderlabs/ssh v0.1.1/go.mod h1:U7qILu1NlMHj9FlMhZLlkCdDnU1DBEAqr0aevW3Awn0=
 github.com/glycerine/go-unsnap-stream v0.0.0-20180323001048-9f0cb55181dd/go.mod h1:/20jfyN9Y5QPEAprSgKAUr+glWDY39ZiUEAYOEv5dsE=
 github.com/glycerine/go-unsnap-stream v0.0.0-20181221182339-f9677308dec2/go.mod h1:/20jfyN9Y5QPEAprSgKAUr+glWDY39ZiUEAYOEv5dsE=
@@ -1235,8 +1237,6 @@ github.com/nats-io/nuid v1.0.1/go.mod h1:19wcPz3Ph3q0Jbyiqsd0kePYG7A95tJPxeL+1OS
 github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86/go.mod h1:kHJEU3ofeGjhHklVoIGuVj85JJwZ6kWPaJwCIxgnFmo=
 github.com/neelance/sourcemap v0.0.0-20151028013722-8c68805598ab/go.mod h1:Qr6/a/Q4r9LP1IltGz7tA7iOK1WonHEYhu1HRBA7ZiM=
 github.com/nishanths/predeclared v0.0.0-20200524104333-86fad755b4d3/go.mod h1:nt3d53pc1VYcphSCIaYAJtnPYnr3Zyn8fMq2wvPGPso=
-github.com/node-real/bsc-erigon-lib v1.0.2-0.20230601070202-a68e4d50ea74 h1:LfNzYcp3WoGKQdE4I85m2uCnzj3cupCfkgprXgd7g+A=
-github.com/node-real/bsc-erigon-lib v1.0.2-0.20230601070202-a68e4d50ea74/go.mod h1:fis+CS9DEtVJ6YV/P+CC7Dx27XtiaTf8tsEDy89wcZU=
 github.com/node-real/bsc-erigon-snapshot v1.0.0 h1:hPHF/EznH3ZrOe60JY6B0kqX2vL75nE9HOelKNNnR18=
 github.com/node-real/bsc-erigon-snapshot v1.0.0/go.mod h1:3AuPxZc85jkehh/HA9h8gabv5MSi3kb/ddtzBsTVJFo=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
